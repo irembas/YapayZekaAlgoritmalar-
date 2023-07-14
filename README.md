@@ -17,8 +17,8 @@ Install the required packages using pip: pip install -r requirements.txt. This w
 
 Run the Python script using your preferred Python environment or through the terminal: python script_name.py.
 
-Contribution:
+# Contribution:
 Contributions to this repository are welcomed. If you've implemented a unique solution using AI, especially genetic algorithms or machine learning algorithms, feel free to submit a pull request.
 
-Note:
+# Note:
 This repository is primarily an educational resource for those looking to delve into the world of AI and machine learning. It provides practical implementations of key concepts and can be used for academic study, self-learning, or in preparation for technical interviews. Happy learning and coding!
